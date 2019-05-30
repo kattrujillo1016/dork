@@ -5,6 +5,8 @@ Development Lead
 ----------------
 
 * Luke Smith <lsmith@zenoscave.com>
+* kelly Trujillo<ktruji25@msudenver.edu>
+
 
 Contributors
 ------------
